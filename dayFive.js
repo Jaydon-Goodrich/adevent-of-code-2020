@@ -26,7 +26,7 @@ let testArr = ["FBFBBBBLRR",
 "FFFFBBBLLR",
 "FBBBBBBRRR"]
 
-// ****************** END PART ONE **********************
+// ****************** START PART ONE **********************
 
 let finalArr = [];
 
